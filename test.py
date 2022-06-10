@@ -1,8 +1,4 @@
-from operator import getitem
 
+abcdef
 
-123
-123
-123
-123
 
